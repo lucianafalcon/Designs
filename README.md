@@ -1,33 +1,31 @@
 # 3D Electronic Component Designs for PCB Modeling
-These are 3D models of electronic components that I created personally because they are not available in standard PCB software libraries. 
-The files are in .FCStd format and can be converted to other formats like .STEP for use in PCB design software.
+3D models of electronic components I created because they are not available in standard PCB libraries.  
+Files are in **.FCStd** and can be converted to **.STEP** for PCB software.
 
-## Components Included:
-- Potentiometer
-- Terminal Block
-- Switch
-- Battery
-- Battery Holder
-- Nut
+## Components
+- Potentiometer  
+- Terminal Block  
+- Switch  
+- Battery  
+- Battery Holder  
+- Nut  
 
 ## Download
-You can download the 3D models from the repository or contact me if you need specific formats or further details.
+Download the models from the repository. For specific formats or more info, contact me.
 
 ---
-Español / Spanish
 
-# Diseños 3D de Componentes Electrónicos para Modelado de PCB
-Estos son modelos 3D de componentes electrónicos que creé personalmente porque no se encuentran en las bibliotecas estándar de software de PCB.
-Los archivos están en formato .FCStd y pueden convertirse a otros formatos como .STEP para su uso en software de diseño de PCB.
+# Diseños 3D de Componentes Electrónicos para PCB
+Modelos 3D de componentes electrónicos creados personalmente, no disponibles en bibliotecas estándar.  
+Archivos en **.FCStd**, convertibles a **.STEP** para software de diseño de PCB.
 
-Componentes incluidos:
-
-- Potenciómetro
-- Bornera (Terminal Block)
-- Interruptor
-- Batería
-- Portabatería
-- Tuerca
+## Componentes
+- Potenciómetro  
+- Bornera  
+- Interruptor  
+- Batería  
+- Portabatería  
+- Tuerca  
 
 ## Descarga
-Descargar los modelos 3D desde el repositorio o contactarme si necesitas formatos específicos o más detalles.
+Descargá los modelos desde el repositorio. Si necesitás un formato específico o más información, contactame.
