@@ -28,4 +28,4 @@ Archivos en **.FCStd**, convertibles a **.STEP** para software de diseño de PCB
 - Tuerca  
 
 ## Descarga
-Descargá los modelos desde el repositorio. Si necesitás un formato específico o más información, contactame.
+Descargá los modelos desde el repositorio. Si necesitás un formato específico o más información, podes contactame.
