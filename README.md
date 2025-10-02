@@ -17,5 +17,4 @@ Archivos en **.FCStd**, convertibles a **.STEP** para software de diseño de PCB
 
 ## Download / Descarga
 Download the models from the repository / Descargá los modelos desde el repositorio:  
-- [FCStd format / Formato FCStd](assets/models)  
-- [STEP format / Formato STEP](assets/models)
+[FCStd format / Formato FCStd](assets/models)  
