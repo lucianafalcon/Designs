@@ -29,3 +29,5 @@ Archivos en **.FCStd**, convertibles a **.STEP** para software de diseño de PCB
 
 ## Descarga
 Descargá los modelos desde el repositorio. Si necesitás un formato específico o más información, contactame.
+
+![Componentes electrónicos](assets/img-components.png)
